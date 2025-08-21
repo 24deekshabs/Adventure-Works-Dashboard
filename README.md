@@ -65,4 +65,15 @@ Adventure Works dataset (sample retail data for Bike Shop sales, customers & pro
 ---
 
 ## 📸 Preview  
-![Dashboard Preview](https://github.com/24deekshabs/Adventure-Works-Dashboard/blob/main/Executive%20Dashboard.png)  
+
+### Executive Dashboard  
+![Executive Dashboard](https://github.com/24deekshabs/Adventure-Works-Dashboard/blob/main/Executive%20Dashboard.png)  
+
+### Map Page  
+![Map Page](https://github.com/24deekshabs/Adventure-Works-Dashboard/blob/main/Map_Page.png)  
+
+### Product Detail  
+![Product Detail](https://github.com/24deekshabs/Adventure-Works-Dashboard/blob/main/Product%20Detail_Page.png)  
+
+### Customer Detail  
+![Customer Detail](https://github.com/24deekshabs/Adventure-Works-Dashboard/blob/main/Customer%20Detail_Page.png)  
